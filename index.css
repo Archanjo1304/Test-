@@ -1,0 +1,42 @@
+/* Estilos gerais */
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Cabeçalho */
+header {
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+header h1 {
+    margin-top: 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+/* Conteúdo principal */
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+/* Rodapé */
+footer {
+    background-color: #f0f0f0;
+    padding: 10px;
+    text-align: center;
+}
